@@ -34,6 +34,7 @@ Simple MoneyBag Game For Quants is an interactive investment quiz game designed 
    ```
 2. Requirements<br>
    Ensure you have the following dependencies installed:<br>
+   ```
             streamlit <br>
             openai <br>
             speechrecognition <br>
